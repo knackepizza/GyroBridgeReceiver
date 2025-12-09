@@ -1,7 +1,7 @@
 # GyroBridgeReceiver
 
 GyroBridgeReceiver lets you send **controller and gyro data from iOS** to a **Windows PC** over UDP.  
-It uses the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases) to emulate a virtual Xbox 360 controller, so your iOS device can act as a gamepad in Windows games.
+It uses the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases) to emulate a virtual Xbox 360 controller, so your iOS device can act as a gamepad in Windows games. The iOS device runs the companion app GyroBridge to send gyro and phone-controller data (like Backbone One).
 
 ## Download
 - Get the latest release from the [Releases](https://github.com/knackepizza/GyroBridgeReceiver/releases) page.
