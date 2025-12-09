@@ -10,7 +10,7 @@ It uses the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases) to 
 ## Requirements
 - **Windows 10/11** (x64 recommended).
 - **ViGEmBus driver** installed (required for virtual controller emulation).
-- The iOS client app GyroBridge (will be released on App Store soon)
+- **GyroBridge** the iOS client app that sends the data (will be released on App Store soon)
 
 ## Installation
 1. Install the **ViGEmBus driver**:
